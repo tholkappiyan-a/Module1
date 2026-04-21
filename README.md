@@ -65,7 +65,8 @@ print("c:", c)
 print("d:", d)
 '''
 Output
-Screenshot 2026-02-04 105949
+<img width="514" height="399" alt="544754064-9b6c40ef-4609-40c1-919b-29477e1d1ffe" src="https://github.com/user-attachments/assets/db5b8cf7-d1e2-4dec-aa83-3afee1f3f608" />
+
 # Result
 Thus the given Python program has been executed successfully and the output has been verified.
 
@@ -82,9 +83,11 @@ To write a Python program that prints the characters 'T' and 'a' using character
 '''
 print('T')
 print('a')
+```
 Output
-Screenshot 2026-02-04 110655
-'''
+<img width="606" height="358" alt="544754149-c5f26176-38eb-4ad5-a0d8-adce03429c83" src="https://github.com/user-attachments/assets/db59c40e-43e3-4edb-90f6-07711cd24122" />
+
+
 # Result
 Thus the given Python Program has been exceuted successfully and the output has been verified.
 
@@ -117,7 +120,7 @@ print(x.real)
 print(x.imag)
 '''
 # Output
-Screenshot 2026-02-04 111405
+https://private-user-images.githubusercontent.com/182344739/544754310-50af8c78-921a-4dbc-8a11-cc5d6969e2d9.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY3NTU5MDksIm5iZiI6MTc3Njc1NTYwOSwicGF0aCI6Ii8xODIzNDQ3MzkvNTQ0NzU0MzEwLTUwYWY4Yzc4LTkyMWEtNGRiYy04YTExLWNjNWQ2OTY5ZTJkOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQyMVQwNzEzMjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kMjQ5M2I3MTQyZDU3ZTdlNGMxYzBlMzk3MTBmYzRmMTdiMzE4YjQwNmRjMzQ5M2QxMWY3OTdhYmQzNzk4YmM1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.EMo9dJrIAlViQL_2u9GTCi9snTHx_yaA6zwl9sm3rxg
 # Result
 Therefore the given Python Program has been executed succeefully and the output has been verified.
 
@@ -138,6 +141,6 @@ men_stepped_on_the_moon = input()
 print(men_stepped_on_the_moon)
 '''
 # Output
-Screenshot 2026-02-04 111526
+https://private-user-images.githubusercontent.com/182344739/544754615-9ffdc6ef-5703-46d3-8e24-3acfc6fb9808.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY3NTU5MDksIm5iZiI6MTc3Njc1NTYwOSwicGF0aCI6Ii8xODIzNDQ3MzkvNTQ0NzU0NjE1LTlmZmRjNmVmLTU3MDMtNDZkMy04ZTI0LTNhY2ZjNmZiOTgwOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQyMVQwNzEzMjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMDlkNjU5M2I5NWRmNDVhZDFkYmExNWZjZjk4MmJmY2IxNmQzNTFjZWU5MDMwMjYyMTFhN2Q5YWZkYWRkMTk0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.wEV8WTzc2zGaski3wZ6aGD0wDN7ZgbezUrGrGGm0RQw
 # Result
 Therfore the given Python program has been executed successfully and the output has been verified.
